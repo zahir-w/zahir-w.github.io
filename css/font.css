@@ -1,0 +1,5 @@
+@font-face{
+    font-family:'wu';  /* 字体名自定义即可 */
+    src:url('../fonts/LXGWWenKai-Regular.ttf'); /* 字体文件路径 */
+    font-display : swap;
+}
